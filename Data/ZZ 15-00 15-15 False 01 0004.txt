@@ -1,0 +1,4 @@
+BKNG,15-00,4784.93,15-15,4777.59,False,0.32,(etf(.50)),0.133,(sym),0.153,Consumer Discretionary,0.32
+BMY,15-00,58.96,15-15,58.88,False,0.22,(etf(.50)),0.133,(sym),0.136,Health Care,0.54
+CI,15-00,326.34,15-15,325.62,False,0.16,(etf(.50)),0.133,(sym),0.221,Health Care,0.7
+TGT,15-00,107.29,15-15,107.13,False,0.11,(etf(.50)),0.133,(sym),0.149,Consumer Staples,0.81

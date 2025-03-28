@@ -1,0 +1,8 @@
+ACN,15-15,309.71,15-30,309.46,False,0.46,(etf(.50)),0.0625,(sym),0.081,Information Technology,0.46
+ANET,15-15,79.59,15-30,79.5,False,0.21,(etf(.50)),0.0625,(sym),0.113,Information Technology,0.67
+CHTR,15-15,383.02,15-30,382,False,0.07,(etf(.50)),0.0625,(sym),0.266,Communication,0.74
+DAL,15-15,46.45,15-30,46.19,False,0.08,(etf(.50)),0.0625,(sym),0.56,Industrials,0.82
+GM,15-15,47.58,15-30,47.51,False,0.1,(etf(.50)),0.0625,(sym),0.147,Consumer Discretionary,0.92
+IDXX,15-15,422.87,15-30,422.02,False,0.07,(etf(.50)),0.0625,(sym),0.201,Health Care,0.99
+NFLX,15-15,985.21,15-30,983.82,False,0.84,(etf(.50)),0.0625,(sym),0.141,Communication,1.83
+NOW,15-15,831.67,15-30,830.99,False,0.38,(etf(.50)),0.0625,(sym),0.082,Information Technology,2.21
