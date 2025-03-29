@@ -1,0 +1,62 @@
+=== Summary (All Categories) ===
+Sector - Information Technology, Count - 40, Weight - 30.62
+Sector - Financials, Count - 41, Weight - 12.59
+Sector - Consumer Discretionary, Count - 23, Weight - 9.86
+Sector - Communication, Count - 11, Weight - 9.30
+Sector - Health Care, Count - 30, Weight - 9.22
+Sector - Industrials, Count - 45, Weight - 6.95
+Sector - Consumer Staples, Count - 16, Weight - 4.86
+Sector - Energy, Count - 15, Weight - 2.95
+Sector - Utilities, Count - 12, Weight - 1.55
+Sector - Real Estate, Count - 10, Weight - 1.29
+Sector - Materials, Count - 7, Weight - 1.14
+
+=== Category: False ===
+Sector - Information Technology, Count - 37, Weight - 17.43
+Sector - Financials, Count - 30, Weight - 9.08
+Sector - Communication, Count - 9, Weight - 8.71
+Sector - Consumer Discretionary, Count - 16, Weight - 6.95
+Sector - Health Care, Count - 18, Weight - 4.86
+Sector - Industrials, Count - 29, Weight - 4.69
+Sector - Consumer Staples, Count - 6, Weight - 2.71
+Sector - Real Estate, Count - 7, Weight - 0.87
+Sector - Utilities, Count - 6, Weight - 0.83
+Sector - Materials, Count - 4, Weight - 0.82
+Sector - Energy, Count - 3, Weight - 0.30
+
+=== Category: LessFalse ===
+Sector - Information Technology, Count - 3, Weight - 13.19
+Sector - Financials, Count - 7, Weight - 2.76
+Sector - Health Care, Count - 5, Weight - 2.20
+Sector - Consumer Discretionary, Count - 3, Weight - 2.09
+Sector - Industrials, Count - 7, Weight - 1.16
+Sector - Energy, Count - 4, Weight - 0.51
+Sector - Utilities, Count - 3, Weight - 0.36
+Sector - Consumer Staples, Count - 2, Weight - 0.26
+Sector - Real Estate, Count - 2, Weight - 0.25
+Sector - Communication, Count - 1, Weight - 0.25
+Sector - Materials, Count - 2, Weight - 0.19
+
+=== Category: True ===
+Sector - Energy, Count - 4, Weight - 1.22
+Sector - Health Care, Count - 2, Weight - 0.82
+Sector - Consumer Discretionary, Count - 4, Weight - 0.82
+Sector - Industrials, Count - 5, Weight - 0.70
+Sector - Consumer Staples, Count - 3, Weight - 0.68
+Sector - Financials, Count - 2, Weight - 0.46
+
+=== Category: LessTrue ===
+Sector - Health Care, Count - 5, Weight - 1.34
+Sector - Energy, Count - 4, Weight - 0.92
+Sector - Consumer Staples, Count - 4, Weight - 0.69
+Sector - Industrials, Count - 4, Weight - 0.40
+Sector - Communication, Count - 1, Weight - 0.34
+Sector - Real Estate, Count - 1, Weight - 0.17
+Sector - Materials, Count - 1, Weight - 0.13
+Sector - Utilities, Count - 1, Weight - 0.11
+
+=== Category: Equal ===
+Sector - Consumer Staples, Count - 1, Weight - 0.52
+Sector - Financials, Count - 2, Weight - 0.29
+Sector - Utilities, Count - 2, Weight - 0.25
+
