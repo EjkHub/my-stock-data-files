@@ -1,0 +1,21 @@
+AEP,15-30,105.23,15-45,105.27,LessTrue,0.11,(etf(.50)),0.0895,(sym),0.038,Utilities,0.11
+AMT,15-30,214.65,15-45,214.72,LessTrue,0.17,(etf(.50)),0.0895,(sym),0.033,Real Estate,0.28
+CL,15-30,93.13,15-45,93.14,LessTrue,0.14,(etf(.50)),0.0895,(sym),0.011,Consumer Staples,0.42
+COP,15-30,102.83,15-45,102.84,LessTrue,0.25,(etf(.50)),0.0895,(sym),0.01,Energy,0.67
+COR,15-30,274.19,15-45,274.21,LessTrue,0.08,(etf(.50)),0.0895,(sym),0.007,Health Care,0.75
+CVX,15-30,166.86,15-45,166.92,LessTrue,0.51,(etf(.50)),0.0895,(sym),0.036,Energy,1.26
+ECL,15-30,252.97,15-45,253.12,LessTrue,0.13,(etf(.50)),0.0895,(sym),0.059,Materials,1.39
+ELV,15-30,431.94,15-45,432.12,LessTrue,0.17,(etf(.50)),0.0895,(sym),0.042,Health Care,1.56
+GD,15-30,270.05,15-45,270.08,LessTrue,0.12,(etf(.50)),0.0895,(sym),0.011,Industrials,1.68
+HES,15-30,159.23,15-45,159.37,LessTrue,0.08,(etf(.50)),0.0895,(sym),0.088,Energy,1.76
+IDXX,15-30,422.02,15-45,422.18,LessTrue,0.07,(etf(.50)),0.0895,(sym),0.038,Health Care,1.83
+JNJ,15-30,163.51,15-45,163.56,LessTrue,0.74,(etf(.50)),0.0895,(sym),0.031,Health Care,2.57
+KMB,15-30,140.6,15-45,140.64,LessTrue,0.09,(etf(.50)),0.0895,(sym),0.028,Consumer Staples,2.66
+MNST,15-30,58.45,15-45,58.49,LessTrue,0.07,(etf(.50)),0.0895,(sym),0.068,Consumer Staples,2.73
+NSC,15-30,236.07,15-45,236.1,LessTrue,0.11,(etf(.50)),0.0895,(sym),0.013,Industrials,2.84
+OTIS,15-30,103.03,15-45,103.04,LessTrue,0.08,(etf(.50)),0.0895,(sym),0.01,Industrials,2.92
+PEP,15-30,149.46,15-45,149.57,LessTrue,0.39,(etf(.50)),0.0895,(sym),0.074,Consumer Staples,3.31
+PFE,15-30,25.04,15-45,25.05,LessTrue,0.28,(etf(.50)),0.0895,(sym),0.04,Health Care,3.59
+RSG,15-30,240.27,15-45,240.31,LessTrue,0.09,(etf(.50)),0.0895,(sym),0.017,Industrials,3.68
+VLO,15-30,133.49,15-45,133.56,LessTrue,0.08,(etf(.50)),0.0895,(sym),0.052,Energy,3.76
+VZ,15-30,45.02,15-45,45.03,LessTrue,0.34,(etf(.50)),0.0895,(sym),0.022,Communication,4.1
